@@ -14,13 +14,13 @@ This program is made for the sole purpose of practice and showing skills based u
 # Download the Package
 
 ```
-npm i cli_quizApp_piaic_shaheer
+npm i cli_quizapp_piaic_shaheer
 ```
 
 # Run the Quiz App on your terminal
 
 ```
-npx cli_quizApp_piaic_shaheer
+npx cli_quizapp_piaic_shaheer
 ```
 
 # Packages
